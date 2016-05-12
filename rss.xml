@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[juice news beta]]></title>
         <description><![CDATA[juice news beta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jcnws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 12:25:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 12:28:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jcnws/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Should strawberry move over just yet? Pineberry flavored alcoholic drinks in the works]]></title>
+            <description><![CDATA[<article><h1>Should strawberry move over just yet? Pineberry flavored alcoholic drinks in the works</h1><p>R&D company Comax Flavors has developed a pineberry flavor for alcoholic beverages that it hopes will become a mainstream flavor choice for consumers. The pineberry, also referred to as hula berry, looks like a smaller inverted strawberry with a white exterior speckled with red seeds and has a pineapple-like flavor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23c3fdead05468bc396d52dd30eca360511650b9.jpg"></article>]]></description>
+            <link>http://www.beveragedaily.com/Ingredients/Comax-Flavors-develops-pineberry-flavor-for-alcoholic-drinks</link>
+            <guid isPermaLink="false">d2f047ac-c595-450d-bf68-871ec2055325</guid>
+            <pubDate>Thu, 12 May 2016 12:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[News | Refresco Gerber]]></title>
-            <description><![CDATA[<article><h1>News | Refresco Gerber</h1><p>Refresco Gerber is the leading European bottler of soft drinks and fruit juices for retailers and branded customers with production in the Benelux, Finland, France, Germany, Iberia, Italy, Poland and the UK.</p><img src="http://www.refresco-gerber.com/wp-content/themes/refrescogerber/images/default-header.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>News | Refresco Gerber</h1><p>Refresco Gerber is the leading European bottler of soft drinks and fruit juices for retailers and branded customers with production in the Benelux, Finland, France, Germany, Iberia, Italy, Poland and the UK.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30739d9ebef2a6d05dab010e804329a3c2507162.jpg"></article>]]></description>
             <link>http://www.refresco-gerber.com/news/?cwsurl=http%3A%2F%2Fcws.huginonline.com%2FR%2F169419%2FPR%2F201605%2F2011960.xml</link>
             <guid isPermaLink="false">cd8005aa-30ae-41e2-9bbc-b8bd37481189</guid>
             <pubDate>Thu, 12 May 2016 12:24:21 GMT</pubDate>
