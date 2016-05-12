@@ -1,0 +1,28 @@
+name: jcnws
+favicon: null
+layout_spectrum: 0.48905430478043854
+typography_spectrum: 0.6200938608963042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.29720565117895603
+  lightness: 0.6042796201072633
+  saturation: 0.2242739403154701
+  rhythmicContrast: 0.8207360312808305
+purpose: []
