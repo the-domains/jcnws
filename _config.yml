@@ -2,6 +2,7 @@ name: jcnws
 favicon: null
 layout_spectrum: 0.48905430478043854
 typography_spectrum: 0.6200938608963042
+title: juice news beta
 cta:
   domain: null
   bucket: null
